@@ -1,5 +1,5 @@
 FROM alpine
-MAINTAINER lennard@upday.com
+MAINTAINER hi@lenn4rd.io
 
 ENV CLI /bin/flynn
 
